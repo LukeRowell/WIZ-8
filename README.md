@@ -12,4 +12,4 @@ Download the latest release here:
 * Native file selection dialog
 
 ## References ##
-* [Cowgod's Chip-8 Techincal Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
+* [Cowgod's CHIP-8 Techincal Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
