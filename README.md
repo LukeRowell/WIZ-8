@@ -13,3 +13,7 @@ Download the latest release here:
 
 ## References ##
 * [Cowgod's CHIP-8 Techincal Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
+* [chip8swemu by AlfonsoJLuna](https://github.com/AlfonsoJLuna/chip8swemu)
+* [CHIP-8 Wikipedia Article](https://en.wikipedia.org/wiki/CHIP-8)
+* [EmuDev subreddit](https://www.reddit.com/r/EmuDev/)
+* [How to write an emulator](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
