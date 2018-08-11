@@ -4,6 +4,8 @@ A CHIP-8 emulator for Windows written in C++ using SFML and ImGui.
 Download the latest release here: https://github.com/LukeRowell/WIZ-8/releases
 
 <img src="https://github.com/LukeRowell/WIZ-8/blob/master/images/pic1.PNG" width="300">
+<img src="https://github.com/LukeRowell/WIZ-8/blob/master/images/pic2.PNG" width="300">
+<img src="https://github.com/LukeRowell/WIZ-8/blob/master/images/pic3.PNG" width="300">
 ## Features ##
 * Save states
 * Pausing
